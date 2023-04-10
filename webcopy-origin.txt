@@ -1,0 +1,136 @@
+Uri: https://conf.urdu.uz/
+File Name: C:\Downloaded Web Sites\conf.urdu.uz\index.htm
+Content Type: text/html
+
+Uri: https://conf.urdu.uz/assets/css/theme.css
+File Name: C:\Downloaded Web Sites\conf.urdu.uz\assets\css\theme.css
+Content Type: text/css
+
+Uri: https://conf.urdu.uz/assets/fontawesome/js/all.min.js
+File Name: C:\Downloaded Web Sites\conf.urdu.uz\assets\fontawesome\js\all.min.js
+Content Type: application/javascript
+
+Uri: https://conf.urdu.uz/assets/images/1.jpg
+File Name: C:\Downloaded Web Sites\conf.urdu.uz\assets\images\1.jpg
+Content Type: image/jpeg
+
+Uri: https://conf.urdu.uz/assets/images/2.jpg
+File Name: C:\Downloaded Web Sites\conf.urdu.uz\assets\images\2.jpg
+Content Type: image/jpeg
+
+Uri: https://conf.urdu.uz/assets/images/alimage.jpg
+File Name: C:\Downloaded Web Sites\conf.urdu.uz\assets\images\alimage.jpg
+Content Type: image/jpeg
+
+Uri: https://conf.urdu.uz/assets/images/banner.jpg
+File Name: C:\Downloaded Web Sites\conf.urdu.uz\assets\images\banner.jpg
+Content Type: image/jpeg
+
+Uri: https://conf.urdu.uz/assets/images/bars.svg
+File Name: C:\Downloaded Web Sites\conf.urdu.uz\assets\images\bars.svg
+Content Type: image/svg+xml
+
+Uri: https://conf.urdu.uz/assets/images/hero-1.jpg
+File Name: C:\Downloaded Web Sites\conf.urdu.uz\assets\images\hero-1.jpg
+Content Type: image/jpeg
+
+Uri: https://conf.urdu.uz/assets/images/logos/urdu.png
+File Name: C:\Downloaded Web Sites\conf.urdu.uz\assets\images\logos\urdu.png
+Content Type: image/png
+
+Uri: https://conf.urdu.uz/assets/images/mukhabat.jpg
+File Name: C:\Downloaded Web Sites\conf.urdu.uz\assets\images\mukhabat.jpg
+Content Type: image/jpeg
+
+Uri: https://conf.urdu.uz/assets/images/muzaffar.jpg
+File Name: C:\Downloaded Web Sites\conf.urdu.uz\assets\images\muzaffar.jpg
+Content Type: image/jpeg
+
+Uri: https://conf.urdu.uz/assets/images/rector.jpg
+File Name: C:\Downloaded Web Sites\conf.urdu.uz\assets\images\rector.jpg
+Content Type: image/jpeg
+
+Uri: https://conf.urdu.uz/assets/images/time.jpg
+File Name: C:\Downloaded Web Sites\conf.urdu.uz\assets\images\time.jpg
+Content Type: image/jpeg
+
+Uri: https://conf.urdu.uz/assets/images/xosiyat.jpg
+File Name: C:\Downloaded Web Sites\conf.urdu.uz\assets\images\xosiyat.jpg
+Content Type: image/jpeg
+
+Uri: https://conf.urdu.uz/assets/js/main.js
+File Name: C:\Downloaded Web Sites\conf.urdu.uz\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://conf.urdu.uz/assets/plugins/back-to-top.js
+File Name: C:\Downloaded Web Sites\conf.urdu.uz\assets\plugins\back-to-top.js
+Content Type: application/javascript
+
+Uri: https://conf.urdu.uz/assets/plugins/bootstrap/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\conf.urdu.uz\assets\plugins\bootstrap\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://conf.urdu.uz/assets/plugins/jquery-3.4.1.min.js
+File Name: C:\Downloaded Web Sites\conf.urdu.uz\assets\plugins\jquery-3.4.1.min.js
+Content Type: application/javascript
+
+Uri: https://conf.urdu.uz/assets/plugins/jquery.scrollTo.min.js
+File Name: C:\Downloaded Web Sites\conf.urdu.uz\assets\plugins\jquery.scrollTo.min.js
+Content Type: application/javascript
+
+Uri: https://conf.urdu.uz/assets/plugins/popper.min.js
+File Name: C:\Downloaded Web Sites\conf.urdu.uz\assets\plugins\popper.min.js
+Content Type: application/javascript
+
+Uri: https://conf.urdu.uz/file/2-ilova.pdf
+File Name: C:\Downloaded Web Sites\conf.urdu.uz\file\2-ilova.pdf
+Content Type: application/pdf
+
+Uri: https://conf.urdu.uz/file/anjuman_1_ilova.pdf
+File Name: C:\Downloaded Web Sites\conf.urdu.uz\file\anjuman_1_ilova.pdf
+Content Type: application/pdf
+
+Uri: https://conf.urdu.uz/file/IMG_0001.pdf
+File Name: C:\Downloaded Web Sites\conf.urdu.uz\file\IMG_0001.pdf
+Content Type: application/pdf
+
+Uri: https://conf.urdu.uz/file/the_world_bank.png
+File Name: C:\Downloaded Web Sites\conf.urdu.uz\file\the_world_bank.png
+Content Type: image/png
+
+Uri: https://conf.urdu.uz/index.html
+File Name: C:\Downloaded Web Sites\conf.urdu.uz\index.html
+Content Type: text/html
+
+Uri: https://conf.urdu.uz/sign_up.php
+File Name: C:\Downloaded Web Sites\conf.urdu.uz\sign_up.php.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:600,700,800|Roboto:300,400,700&display=swap
+File Name: C:\Downloaded Web Sites\conf.urdu.uz\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+File Name: C:\Downloaded Web Sites\conf.urdu.uz\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\conf.urdu.uz\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\conf.urdu.uz\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\conf.urdu.uz\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\conf.urdu.uz\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\conf.urdu.uz\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
